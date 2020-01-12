@@ -1,0 +1,8 @@
+en:
+  activerecord:
+    models:
+      my_model:
+        one: My Model Translation
+        other: My Models Translation
+        some_other_key:
+          key: Value
